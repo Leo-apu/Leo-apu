@@ -26,8 +26,8 @@
 <table>
 <tr border="0" >
   <td colspan="2" align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=leo-apu&theme=radical&show_icons=true&count_private=true" width="400px"/>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-apu&theme=radical&hide_border=false" width="370px" />  
+    <img  src="https://github-readme-stats.vercel.app/api?username=leo-apu&theme=radical&show_icons=true&count_private=true" width="50%"/>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-apu&theme=radical&hide_border=false" width="50%" />  
   </td>
 </tr>
 <tr border="0">
@@ -48,7 +48,7 @@
 ## <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="40px" width="40px"><b>Github Trophies</b>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=leo-apu&theme=radical&row=2&column=3&margin-h=15&margin-w=3&no-bg=true" alt="TROPHY" />
+      <img align="center" width=60% src="https://github-profile-trophy.vercel.app/?username=leo-apu&theme=radical&row=2&column=3&margin-h=15&margin-w=3&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
