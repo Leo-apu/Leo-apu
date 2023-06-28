@@ -26,8 +26,8 @@
 <table>
 <tr border="0" >
   <td colspan="2" align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=leo-apu&theme=radical&show_icons=true&count_private=true" />
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-apu&theme=radical&hide_border=false" />  
+    <img  src="https://github-readme-stats.vercel.app/api?username=leo-apu&theme=radical&show_icons=true&count_private=true" width="400px"/>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-apu&theme=radical&hide_border=false" width="450px" />  
   </td>
 </tr>
 <tr border="0">
