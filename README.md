@@ -26,21 +26,20 @@
 <p align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=leo-apu&show_icons=true&theme=radical&count_private=true' alt="leo-apu" /></p>
 <hr>
-<br>
 
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=leo-apu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<hr>
 
-<hr><br>
-
+## Github Contribution
 <p align='center'>
 <img src="https://github.com/Leo-apu/Leo-apu/raw/output/github-contribution-grid-snake.svg">
 </p>
 
-
+## Github Trophies 🏆
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=leo-apu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=leo-apu&theme=radical&row=2&column=4&margin-h=15&margin-w=3&no-bg=true" alt="TROPHY" />
     </a>
 </div>
