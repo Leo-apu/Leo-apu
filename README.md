@@ -22,7 +22,7 @@
 
 ## <img alt="GIF" height="40" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /> <b>Most Used Languages</b>
 <p align='center'>
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leo-apu&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="64%"/></p>
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leo-apu&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="50%"/></p>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> <b>Github Stats</b>
