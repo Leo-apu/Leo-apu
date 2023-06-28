@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: leo-apu
-          svg_out_path: dist/github-contribution-grid-snake1.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
