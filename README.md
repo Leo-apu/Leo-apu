@@ -1,6 +1,6 @@
 <!--   ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
 <h2 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm Leandro Victorino Cruz</h2>
-<h4 align="center">I am a University-level Analyst Programmer with a focus on web development and improving programming skills. Experienced in completing courses and personal projects to enhance knowledge. Adaptable team player committed to staying updated with the latest technologies. Proactive, self-directed, and passionate about taking on technical challenges for personal and professional growth.</h4>
+<h3 align="center">I am a University-level Analyst Programmer with a focus on web development and improving programming skills. Experienced in completing courses and personal projects to enhance knowledge. Adaptable team player committed to staying updated with the latest technologies. Proactive, self-directed, and passionate about taking on technical challenges for personal and professional growth.</h3>
 
 
 <p align="center">
@@ -26,8 +26,8 @@
 <table>
 <tr border="0" >
   <td colspan="2" align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=leo-apu&theme=radical&show_icons=true&count_private=true" width="50%"/>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-apu&theme=radical&hide_border=false" width="50%" />  
+    <img  src="https://github-readme-stats.vercel.app/api?username=leo-apu&theme=radical&show_icons=true&count_private=true" width="400px"/>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-apu&theme=radical&hide_border=false" width="370px" />  
   </td>
 </tr>
 <tr border="0">
