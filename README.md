@@ -5,7 +5,13 @@
 
 <span style="font-size: 1.3rem; text-align: justify;">
 <i>
-I am a University-level Analyst Programmer with a focus on web development and improving programming skills. Experienced in completing courses and personal projects to enhance knowledge. Adaptable team player committed to staying updated with the latest technologies. Proactive, self-directed, and passionate about taking on technical challenges for personal and professional growth.
+As a recent graduate with a degree in Analyst Programming from the National University of Jujuy, I specialize in web development with a strong emphasis on frontend technologies. My expertise includes React and a solid foundation in UX/UI design, acquired through both academic training and practical projects.
+
+I have completed various courses, including a React bootcamp and a comprehensive UX/UI design course, which have equipped me with the skills to create intuitive and engaging user experiences. My personal projects and academic assignments reflect my ability to apply these skills effectively.
+
+I am an adaptable team player who is proactive and self-directed, always striving to stay updated with the latest technological advancements. I am passionate about taking on technical challenges, continuously improving my programming skills, and contributing to innovative solutions.
+
+With a commitment to professional growth and a keen interest in solving complex problems, I am eager to leverage my skills and experiences to make a meaningful impact in the field of web development.
 </i>
 </span>
 
@@ -59,4 +65,3 @@ I am a University-level Analyst Programmer with a focus on web development and i
     </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
