@@ -55,7 +55,7 @@ With a commitment to professional growth and a keen interest in solving complex 
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"><b>Github Contribution</b> <img alt="GIF" height="40" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /> 
 <p align='center'>
-<img src="https://github.com/Leo-apu/Leo-apu/raw/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Leo-apu/Leo-apu/raw/output/github-snake-dark.svg">
 </p>
 
 ## <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="40px" width="40px"><b>Github Trophies</b>
