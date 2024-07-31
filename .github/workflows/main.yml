@@ -14,16 +14,13 @@ jobs:
 
     steps:
       # Checkout the repository
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Generate the snake animation
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: Leo-apu
-          # Optional: Output path for the generated images
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Check the status of the repository (useful for debugging)
       - name: Check git status
@@ -34,7 +31,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+          git add dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake animation"
           git push origin +HEAD:output
 
@@ -45,4 +42,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-
