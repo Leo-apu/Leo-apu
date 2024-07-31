@@ -39,11 +39,13 @@ jobs:
 
       # Commit and Push changes
       - name: Commit and Push changes
-        uses: github-actions-x/commit@v3.0
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Update contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
